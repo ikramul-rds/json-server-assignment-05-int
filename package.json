@@ -1,0 +1,25 @@
+{
+  "name": "json-server-assignment-05-int",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "type": "module",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikramul-rds/json-server-assignment-05-int.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikramul-rds/json-server-assignment-05-int/issues"
+  },
+  "homepage": "https://github.com/ikramul-rds/json-server-assignment-05-int#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.12"
+  }
+}
